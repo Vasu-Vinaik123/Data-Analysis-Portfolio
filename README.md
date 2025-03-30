@@ -17,8 +17,16 @@ This Power BI dashboard provides key insights into call center performance by tr
 
 
 # [Project 2: Classic Cars Sales Analytics](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
-The classic car model dataset contains list of sales records, customers, products, orders, employees and offices. The analysis aims to provide key insights into **sales performance, customer details, orderdetails and order quantity**.
-The project leverages **SQL queries** to extract meaningful insights from the dataset.
-## SQL Code  [Classic_model_analytics.sql](Classic_Models_Analytics/Classic_model_analytics.sql)
+This project leverages the Classic Car Models Sales dataset, which contains sales records, customers, products, orders, employees, and offices. The analysis aims to provide key insights into classic cars sales business, such as **sales performance, customer details, orderdetails and order quantity**. By using **SQL queries**, this project explores and extracts valuable insights to aid in better business decision-making 
 
+## Key Areas of Analysis:
+* Sales Performance
+* Customer Information
+* Order Details & Quantities
+* Order Status
+* Product Information
+* Geographic and Employee Data
+
+
+## SQL Code  [Classic_model_analytics.sql](Classic_Models_Analytics/Classic_model_analytics.sql)
  
