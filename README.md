@@ -1,4 +1,4 @@
-# Vasu-s_Portolio
+
 # Data Analytics Portfolio
 Welcome to my Portfolio! This portfolio showcases a collection of projects that demonstrate my skills in data analysis, SQL, Power BI and various other analytical and technical fields. The projects span different industries and topics and they reflect my passion for transforming raw data into actionable insights
 
@@ -16,6 +16,8 @@ This Power BI dashboard provides key insights into call center performance by tr
 * Published the dashboard
 ## Dashboard
 ![](./Call_Center_Dashboard_Image.png)
+
+
 
 
 
