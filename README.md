@@ -30,5 +30,5 @@ This project leverages the Classic Car Models Sales dataset, which contains sale
 * Product Information
 * Geographic and Employee Data
 
-## SQL Code  [Classic_model_analytics.sql](Classic_Models_Analytics)
+## SQL Code  [Classic_model_analytics.sql](Classic_Models_Analytics/Classic_model_analytics.sql)
  
