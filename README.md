@@ -1,7 +1,7 @@
 # Vasu-s_Portolio
 Data Analytics Portfolio
 
-# [Project 1: Call Center Analytics Dashboard using Power BI]
+# [Project 1: Call Center Analytics Dashboard using Power BI](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
 This Power BI dashboard provides key insights into call center performance by tracking essential metrics such as total calls, call durations, and response times. The dashboard enables data-driven decision-making for improving efficiency and customer satisfaction.
 
 * Data was taken from Call Center Dataset
