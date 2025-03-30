@@ -21,6 +21,8 @@ This Power BI dashboard provides key insights into call center performance by tr
 
 
 
+
+
 # Project 2: Classic Cars Sales Analytics
 This project leverages the Classic Car Models Sales dataset, which contains sales records, customers, products, orders, employees, and offices. The analysis aims to provide key insights into classic cars sales business, such as **sales performance, customer details, orderdetails and order quantity**. By using **SQL queries**, this project explores and extracts valuable insights to aid in better business decision-making 
 
