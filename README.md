@@ -11,4 +11,5 @@ This Power BI dashboard provides key insights into call center performance by tr
 * Use Dax for custom calculations and metrics
 * Build visualizations and applied themes, colors and filters for better visualization
 * Published the dashboard
-
+## Dashboard
+![] (Vasu-s_Portolio/Call_Center_Dashboard_Image.png)
