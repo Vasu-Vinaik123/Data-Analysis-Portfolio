@@ -1,7 +1,10 @@
 # Vasu-s_Portolio
 # Data Analytics Portfolio
+Welcome to my Portfolio! This portfolio showcases a collection of projects that demonstrate my skills in data analysis, SQL, Power BI and various other analytical and technical fields. The projects span different industries and topics and they reflect my passion for transforming raw data into actionable insights
 
-# [Project 1: Call Center Analytics Dashboard](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
+## [Click here to view my Projects in Github](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
+
+# Project 1: Call Center Analytics Dashboard
 This Power BI dashboard provides key insights into call center performance by tracking essential metrics such as total calls, call durations, and response times. The dashboard enables data-driven decision-making for improving efficiency and customer satisfaction.
 
 * Data was taken from Call Center Dataset
@@ -16,7 +19,7 @@ This Power BI dashboard provides key insights into call center performance by tr
 
 
 
-# [Project 2: Classic Cars Sales Analytics](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
+# Project 2: Classic Cars Sales Analytics
 This project leverages the Classic Car Models Sales dataset, which contains sales records, customers, products, orders, employees, and offices. The analysis aims to provide key insights into classic cars sales business, such as **sales performance, customer details, orderdetails and order quantity**. By using **SQL queries**, this project explores and extracts valuable insights to aid in better business decision-making 
 
 ## Key Areas of Analysis:
@@ -26,7 +29,6 @@ This project leverages the Classic Car Models Sales dataset, which contains sale
 * Order Status
 * Product Information
 * Geographic and Employee Data
-
 
 ## SQL Code  [Classic_model_analytics.sql](Classic_Models_Analytics/Classic_model_analytics.sql)
  
