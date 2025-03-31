@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 Welcome to my Portfolio! This portfolio showcases a collection of projects that demonstrate my skills in data analysis, SQL, Power BI and various other analytical and technical fields. The projects span different industries and topics and they reflect my passion for transforming raw data into actionable insights
 
-## [Click here to view my Projects in Github](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio.git)
+## [Click here to view my Projects in Github](https://github.com/Vasu-Vinaik123/Data-Analysis-Portfolio.git)
 
 # Project 1: Call Center Analytics Dashboard
 This Power BI dashboard provides key insights into call center performance by tracking essential metrics such as total calls, call durations, and response times. The dashboard enables data-driven decision-making for improving efficiency and customer satisfaction.
