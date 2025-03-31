@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,15 +6,15 @@
     <title>Data Analytics Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f7f6;
-            color: #333;
+            font-family: 'Arial', sans-serif;
+            background-color: #E7F5FF; /* Light blue background */
+            color: #333; /* Dark gray font color */
             line-height: 1.6;
             padding: 20px;
         }
 
         h1, h2, h3 {
-            color: #4CAF50;
+            color: #3A86FF; /* Soft blue for headings */
         }
 
         h1 {
@@ -34,28 +34,29 @@
         p {
             font-size: 1.2rem;
             margin-bottom: 10px;
+            color: #333; /* Dark gray for text */
         }
 
         a {
-            color: #4CAF50;
+            color: #007BFF; /* Bright blue for links */
             text-decoration: none;
             font-weight: bold;
         }
 
         a:hover {
-            color: #45a049;
+            color: #0056b3; /* Darker blue on hover */
         }
 
         .project {
-            background-color: #ffffff;
-            padding: 15px;
+            background-color: #ffffff; /* White background for project sections */
+            padding: 20px;
             margin-bottom: 20px;
             border-radius: 8px;
-            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
         }
 
         .project h3 {
-            color: #3e8e41;
+            color: #3A86FF; /* Soft blue for project headers */
         }
 
         .project ul {
@@ -86,7 +87,7 @@
         }
 
         .footer a:hover {
-            color: #45a049;
+            color: #0056b3; /* Darker blue on hover */
         }
     </style>
 </head>
