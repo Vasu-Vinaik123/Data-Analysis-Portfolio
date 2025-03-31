@@ -1,0 +1,70 @@
+/* style.css */
+
+/* Global Styles */
+body {
+    background-color: #f4f6f9; /* Light background color */
+    font-family: 'Arial', sans-serif; /* Professional font */
+    color: #333; /* Text color */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #333; /* Dark color for headings */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Professional heading font */
+}
+
+h1 {
+    font-size: 36px;
+    border-bottom: 2px solid #007BFF; /* Blue line under main title */
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #007BFF; /* Blue links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Container Styles */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #007BFF; /* Blue footer */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
