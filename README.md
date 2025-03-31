@@ -34,7 +34,7 @@ This project leverages the Classic Car Models Sales dataset, which contains sale
 
 **SQL Code** [Classic_model_analytics.sql](https://github.com/Vasu-Vinaik123/Data-Analysis-Portfolio/blob/main/Classic_Models_Analytics/Classic_model_analytics.sql)
 
-
+<br><br>
 
 ## Project 3: Coffee Shop Sales Analytics
 This project analyzes a coffee sales dataset, providing key business insights through SQL queries. The analysis focuses on total sales, monthly trends, and performance comparisons to help businesses make data-driven decisions.
@@ -50,11 +50,11 @@ This project analyzes a coffee sales dataset, providing key business insights th
 **SQL Code** [Coffee_shop_sales_analytics.sql](https://github.com/Vasu-Vinaik123/Data-Analysis-Portfolio/blob/main/Coffee_Sales_Analytics/Coffee_Shop_Sales_Analytics.sql)
 
 
-
+<br><br>
 
 ## Connect with Me
 * Email: [vasuvinaik123@gmail.com](mailto:vasuvinaik123@gmail.com)
 * LinkedIn: [vasuvinaik](https://www.linkedin.com/in/vasu-vinaik/)
 
 
-
+<br><br>
