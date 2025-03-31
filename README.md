@@ -35,7 +35,7 @@ This project leverages the Classic Car Models Sales dataset, which contains sale
 * Product Information
 * Geographic and Employee Data
 
-## SQL Code  [Classic_model_analytics.sql](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio/blob/main/Classic_Models_Analytics/Classic_model_analytics.sql)
+ SQL Code  [Classic_model_analytics.sql](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio/blob/main/Classic_Models_Analytics/Classic_model_analytics.sql)
 
 
 
@@ -51,7 +51,7 @@ This project analyzes a coffee sales dataset, providing key business insights th
 * Comparing Daily Sales with the average sales in the May
 * Top 10 products that generated highest revenue in the month of May
 
-## SQL Code [Coffee_shop_sales_analytics.sql](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio/blob/main/Coffee_Sales_Analytics/Coffee_Shop_Sales_Analytics.sql)
+ SQL Code [Coffee_shop_sales_analytics.sql](https://github.com/Vasu-Vinaik123/Vasu-s_Portolio/blob/main/Coffee_Sales_Analytics/Coffee_Shop_Sales_Analytics.sql)
 
 
 
